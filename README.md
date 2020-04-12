@@ -18,4 +18,4 @@ Lord Hassan as-Sabbah leads the Alamut in Yairm's Unciv.
 
 -Pre-installed Game.png and Atlas, allowing the mod to (hopefully) be compatible to be installed on mobile devices.
 #### How to Install
-Download the ZIP, unzip, get the file named Alamut and drop it on the /mods directory in your Unciv client
+Download the ZIP, unzip, get the file named Alamut (the one containing the Images and json files) and drop it on the /mods directory in your Unciv client
